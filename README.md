@@ -59,4 +59,4 @@ I recently interned at Innomatics Research Labs, sharpening my Python, EDA, and 
 
 ## Download My Portfolio (PDF)
 
-[Click here to view/download my full portfolio.](./Chandrika-Badveli(1)(1).pdf)
+[Click here to view/download my full portfolio.]https://github.com/172005-dot/Chandrika-portfolio/blob/main/Chandrika-Badveli%20(1)%20(1).pdf
